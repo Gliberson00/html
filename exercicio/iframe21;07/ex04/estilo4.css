@@ -1,0 +1,11 @@
+button{
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+gap: 0.5em;
+
+}
+button img {
+    width: 30px;
+    
+}
